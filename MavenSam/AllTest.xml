@@ -4,7 +4,7 @@
   <test name="Test">
     <classes>
       <class name="Samples.MavenSam.AssertDemo1"/>
- <!--      <class name="Samples.MavenSam.JenkinTest"/> -->
+ <!--      test<class name="Samples.MavenSam.JenkinTest"/> -->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
